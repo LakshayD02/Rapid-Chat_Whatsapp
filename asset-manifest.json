@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LakshayD02/Rapid-Chat_Whatsapp/static/css/main.e6c13ad2.css",
+    "main.js": "/LakshayD02/Rapid-Chat_Whatsapp/static/js/main.afc79e03.js",
+    "static/js/787.0ff25753.chunk.js": "/LakshayD02/Rapid-Chat_Whatsapp/static/js/787.0ff25753.chunk.js",
+    "index.html": "/LakshayD02/Rapid-Chat_Whatsapp/index.html",
+    "main.e6c13ad2.css.map": "/LakshayD02/Rapid-Chat_Whatsapp/static/css/main.e6c13ad2.css.map",
+    "main.afc79e03.js.map": "/LakshayD02/Rapid-Chat_Whatsapp/static/js/main.afc79e03.js.map",
+    "787.0ff25753.chunk.js.map": "/LakshayD02/Rapid-Chat_Whatsapp/static/js/787.0ff25753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.afc79e03.js"
+  ]
+}
