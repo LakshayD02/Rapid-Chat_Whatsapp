@@ -44,7 +44,7 @@ Rapid-Chat, Rapid WhatsApp is a React application designed to simplify starting 
 
 ## How to Run
 
-1. **Clone the repository:**  💾 (Replace with your repo URL)
+1. **Clone the repository:**  git clone <repository_url>
 
 2. **Navigate to the directory:** `cd Rapid-Chat_Whatsapp`
 
